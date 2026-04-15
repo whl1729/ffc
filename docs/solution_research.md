@@ -1,5 +1,20 @@
 # 「花式足球教练」方案调研
 
+## 2026-04-15
+
+### 动作对比方案调研
+
+为了开发「花式足球教练」，我需要对比花式足球高手与普通人的动作的差异。
+请问在对比人类动作差异领域，目前有哪些解决方案？
+请介绍对应的研究团队、解决方案、适用场景、适用人群、成熟度及参考链接。
+最好能介绍相关的开源项目。
+
+回答：
+
+- [豆包的回答](./llm_answers/doubao_answer_action_comparison.md)
+- [ChatGPT的回答](./llm_answers/chatgpt_answer_action_comparison.md)
+- [Gemini的回答](./llm_answers/gemini_answer_action_comparison.md)
+
 ## 2026-04-12
 
 ### 「花式足球教练」方案对比
