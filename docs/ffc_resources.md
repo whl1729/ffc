@@ -22,3 +22,7 @@
 ## 数据集
 
 - [SoccerNet](https://www.soccer-net.org)
+
+## 机器人学习开源项目
+
+- [YanjieZe / awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)

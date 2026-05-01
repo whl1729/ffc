@@ -2,6 +2,18 @@
 
 ## 2026-05-01
 
+### 机器人动作训练方案调研
+
+请问现在业界是怎么训练机器人学习人类动作的？
+请介绍业界的训练方案及相关的开源项目或产品（如果有的话）
+
+- [ChatGPT 的回答](./answers/humanoid_learning_chatgpt.md)
+- [Gemini 的回答](./answers/humanoid_learning_gemini.md)
+- [豆包的回答](./answers/humanoid_learning_doubao.md)
+- [元宝的回答](./answers/humanoid_learning_yuanbao.md)
+- [千问的回答](./answers/humanoid_learning_qianwen.md)
+- [YanjieZe / awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)
+
 ### 人球共识方案调研
 
 我想开发「花式足球教练」系统，这个系统需要同时识别人的动作和足球。
