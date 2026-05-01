@@ -1,8 +1,34 @@
 # 「花式足球教练」方案调研
 
+## 2026-05-01
+
+### 人球共识方案调研
+
+我想开发「花式足球教练」系统，这个系统需要同时识别人的动作和足球。
+目前我调研到的 openpose, mmpose, mediapose 和 alphapose 貌似都只识别人的动作，不会同时识别其他物体。
+请调查有哪些开源项目或产品满足「同时识别人的动作和物体」的要求。
+
+- [ChatGPT 的回答](./answers/hoi_chatgpt.md)
+- [Gemini 的回答](./answers/hoi_gemini.md)
+- [豆包的回答](./answers/hoi_doubao.md)
+- [元宝的回答](./answers/hoi_yuanbao.md)
+- [千问的回答](./answers/hoi_qianwen.md)
+
 ## 2026-04-19
 
-### 参考机器人学习人类动作的方案
+### 参考市面上的已有方案
+
+目前可以参考以下问题的解决方案：
+
+- 机器人学习人类动作
+- AI 跳绳计数器
+- 其他运动应用
+
+#### AI 跳绳计数器方案调研
+
+- [【超简单之50行代码】基于PaddleHub的跳绳AI计数器](https://aistudio.baidu.com/projectdetail/3936692)
+- [chenwr727 / RopeSkippingCounter](https://github.com/chenwr727/RopeSkippingCounter)
+- [danimaaz / Jump-Rope-Counter](https://github.com/danimaaz/Jump-Rope-Counter)
 
 ## 2026-04-15
 
@@ -15,9 +41,9 @@
 
 回答：
 
-- [豆包的回答](./llm_answers/doubao_answer_action_comparison.md)
-- [ChatGPT的回答](./llm_answers/chatgpt_answer_action_comparison.md)
-- [Gemini的回答](./llm_answers/gemini_answer_action_comparison.md)
+- [豆包的回答](./answers/doubao_answer_action_comparison.md)
+- [ChatGPT的回答](./answers/chatgpt_answer_action_comparison.md)
+- [Gemini的回答](./answers/gemini_answer_action_comparison.md)
 
 ## 2026-04-12
 
@@ -33,8 +59,8 @@
 
 回答：
 
-- [豆包的回答](./llm_answers/doubao_answer_project_comparision.md)
-- [Gemini 的回答](./llm_answers/gemini_answer_project_comparison.md)
+- [豆包的回答](./answers/doubao_answer_project_comparision.md)
+- [Gemini 的回答](./answers/gemini_answer_project_comparison.md)
 
 ## 2026-04-06
 
@@ -43,12 +69,12 @@
 请问现在AI辅助运动领域的发展现状是怎样的？请介绍最新的市场产品或科研成果。
 所谓的「AI辅助运动」，是指利用AI技术帮助人们更好地练习舞蹈、武术、球类运动等各种技能。
 
-- [ChatGPT的回答](./llm_answers/chatgpt_answer_ai_aided_sport.md)
-- [Gemini的回答](./llm_answers/gemini_answer_ai_aided_sport.md)
-- [豆包的回答](./llm_answers/doubao_answer_ai_aided_sport.md)
-- [元宝的回答](./llm_answers/yuanbao_answer_ai_aided_sport.md)
-- [千问的回答](./llm_answers/qianwen_answer_ai_aided_sport.md)
-- [智谱的回答](./llm_answers/glm_answer_ai_aided_sport.md)
+- [ChatGPT的回答](./answers/chatgpt_answer_ai_aided_sport.md)
+- [Gemini的回答](./answers/gemini_answer_ai_aided_sport.md)
+- [豆包的回答](./answers/doubao_answer_ai_aided_sport.md)
+- [元宝的回答](./answers/yuanbao_answer_ai_aided_sport.md)
+- [千问的回答](./answers/qianwen_answer_ai_aided_sport.md)
+- [智谱的回答](./answers/glm_answer_ai_aided_sport.md)
 
 ### 「花式足球教练」方案提示词
 
@@ -64,9 +90,9 @@
 
 回答：
 
-- [ChatGPT的回答1](./llm_answers/chatgpt_answer_ffc_solution_1.md)
-- [ChatGPT的回答2](./llm_answers/chatgpt_answer_ffc_solution_2.md)
-- [Gemini的回答](./llm_answers/gemini_answer_ffc_solution.md)
-- [豆包的回答](./llm_answers/doubao_answer_ffc_solution.md)
-- [元宝的回答](./llm_answers/yuanbao_answer_ffc_solution.md)
-- [千问的回答](./llm_answers/qianwen_answer_ffc_solution.md)
+- [ChatGPT的回答1](./answers/chatgpt_answer_ffc_solution_1.md)
+- [ChatGPT的回答2](./answers/chatgpt_answer_ffc_solution_2.md)
+- [Gemini的回答](./answers/gemini_answer_ffc_solution.md)
+- [豆包的回答](./answers/doubao_answer_ffc_solution.md)
+- [元宝的回答](./answers/yuanbao_answer_ffc_solution.md)
+- [千问的回答](./answers/qianwen_answer_ffc_solution.md)
