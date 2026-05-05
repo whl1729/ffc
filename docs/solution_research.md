@@ -1,5 +1,19 @@
 # 「花式足球教练」方案调研
 
+## 2026-05-05
+
+### AQA 领域进展
+
+请介绍 AQA（Action Quality Assessment，动作质量评估）领域的研究进展，特别是运动方面的动作。
+
+- [Claude 的回答](./answers/aqa_claude.md)
+- [ChatGPT 的回答](./answers/aqa_chatgpt.md)
+- [Gemini 的回答](./answers/aqa_gemini.md)
+- [豆包的回答](./answers/aqa_doubao.md)
+- [千问的回答](./answers/aqa_qianwen.md)
+- [元宝的回答](./answers/aqa_yuanbao.md)
+- [智谱的回答](./answers/aqa_chatglm.md)
+
 ## 2026-05-03
 
 ### 动作识别领域进展
