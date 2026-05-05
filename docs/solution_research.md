@@ -1,5 +1,34 @@
 # 「花式足球教练」方案调研
 
+## 2026-05-03
+
+### 动作识别领域进展
+
+请介绍视频中的人类动作识别这个领域的最新进展、最好水平。
+我看了一些论文，感觉这个领域还处于初级阶段，算法只能识别人类简单的动作，对复杂的动作（比如花式足球）还远远达不到识别和分析的水平，是吗？
+
+- [Claude 的回答](./answers/har_sota_claude.md)
+- [ChatGPT 的回答](./answers/har_sota_chatgpt.md)
+- [Gemini 的回答](./answers/har_sota_gemini.md)
+- [豆包的回答](./answers/har_sota_doubao.md)
+- [千问的回答](./answers/har_sota_qianwen.md)
+- [元宝的回答](./answers/har_sota_yuanbao.md)
+
+### SoccerMaster 方案调研
+
+- [SoccerMaster 原始论文](https://arxiv.org/pdf/2512.11016)
+- [SoccerMaster ljg-paper 解读](./papers/20260503T153106_paper_soccer_master.md)
+
+### HAKE 方案调研
+
+- [HAKE 原始论文](https://arxiv.org/pdf/2202.06851)
+- [HAKE ljg-paper 解读](./papers/20260503T161555_paper_hake.md)
+
+### OBTracker 方案调研
+
+- [OBTracker 原始论文](https://zjuidg.org/source/projects/OBTracker/OBTracker.pdf)
+- [OBTracler ljg-paper 解读](./papers/20260503T165515_paper_obtracker.md)
+
 ## 2026-05-01
 
 ### 机器人动作训练方案调研
