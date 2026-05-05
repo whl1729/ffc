@@ -31,17 +31,17 @@
 ### SoccerMaster 方案调研
 
 - [SoccerMaster 原始论文](https://arxiv.org/pdf/2512.11016)
-- [SoccerMaster ljg-paper 解读](./papers/20260503T153106_paper_soccer_master.md)
+- [SoccerMaster ljg-paper 解读](./papers/ljg-paper/20260503T153106_paper_soccer_master.md)
 
 ### HAKE 方案调研
 
 - [HAKE 原始论文](https://arxiv.org/pdf/2202.06851)
-- [HAKE ljg-paper 解读](./papers/20260503T161555_paper_hake.md)
+- [HAKE ljg-paper 解读](./papers/ljg-paper/20260503T161555_paper_hake.md)
 
 ### OBTracker 方案调研
 
 - [OBTracker 原始论文](https://zjuidg.org/source/projects/OBTracker/OBTracker.pdf)
-- [OBTracler ljg-paper 解读](./papers/20260503T165515_paper_obtracker.md)
+- [OBTracler ljg-paper 解读](./papers/ljg-paper/20260503T165515_paper_obtracker.md)
 
 ## 2026-05-01
 
