@@ -1,5 +1,36 @@
 # 「花式足球教练」方案调研
 
+## 2026-07-23
+
+### AQA 路线选择
+
+我计划两年后离职，目前有两个选择：
+
+1. 跳槽到机器人公司，利用业余时间研究 AQA
+2. 考研，到高校搞 AQA 方面的研究
+
+请问哪个选择更适合我？为什么？
+
+- [ChatGPT 的回答](./answers/2_years_later_chatgpt.md)
+- [Gemini 的回答](./answers/2_years_later_gemini.md)
+- [豆包的回答](./answers/2_years_later_doubao.md)
+- [千问的回答](./answers/2_years_later_qianwen.md)
+- [元宝的回答](./answers/2_years_later_yuanbao.md)
+- [智谱的回答](./answers/2_years_later_chatglm.md)
+
+### AQA 技术栈
+
+我本科通信工程专业，已毕业10年，在自动驾驶公司工作7年。
+现在准备将 AQA（Action Quality Assessment，动作质量评估）作为我的科研方向，
+请循序渐进地介绍我需要掌握的技术栈。
+
+- [ChatGPT 的回答](./answers/aqa_tech_stask_chatgpt.md)
+- [Gemini 的回答](./answers/aqa_tech_stask_gemini.md)
+- [豆包的回答](./answers/aqa_tech_stask_doubao.md)
+- [千问的回答](./answers/aqa_tech_stask_qianwen.md)
+- [元宝的回答](./answers/aqa_tech_stask_yuanbao.md)
+- [智谱的回答](./answers/aqa_tech_stask_chatglm.md)
+
 ## 2026-05-05
 
 ### AQA 领域进展
